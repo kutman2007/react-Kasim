@@ -1,0 +1,19 @@
+body{
+background-image: url(https://i.pinimg.com/564x/1f/87/b2/1f87b29a2df46100a75aa86b170a21cb.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.contener{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+  margin-right: 50px;
+}
+h3{
+  font-size: 50px;
+}
+h2{
+  font-size: 30px;
+  color: red;
+  box-shadow: 5px 5px 5px 5px;
+}
